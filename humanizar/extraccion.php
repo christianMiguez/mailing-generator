@@ -2,14 +2,14 @@
 
 $URL = 'https://humanizar.edu.uy/wp-admin/admin.php?page=wpcf7&post=346&action=edit';
 
-$COMIENZO = 'MARZO 2024';
+$COMIENZO = 'MAYO 2024';
 
 
 $DURACION = [
     'COMIENZO: - '. $COMIENZO,
     'Duración total: 4 horas.',
-    'Teórico el viernes 8 DE MARZO de 2024 de 18:00 a 20:00 hs',
-    'Práctico el sábado 9 DE MARZO de 2024 de 9:00 a 11:00 hs'
+    'Teórico el viernes 10 DE ' . $COMIENZO . ' de 18:00 a 20:00 hs',
+    'Práctico el sábado 11 DE ' . $COMIENZO . ' de 9:00 a 11:00 hs'
 
 ];
 
